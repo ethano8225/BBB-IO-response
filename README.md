@@ -1,0 +1,1 @@
+This program allows a beaglebone black to wait for one of two buttons to be pressed, depending on which button is pressed, a speaker either plays a high pitch tone for 5 seconds, or it plays a lower pitch tone for 5 seconds. If both are pressed, nothing plays.
